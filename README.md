@@ -4,7 +4,7 @@
 - 📫 How to reach me on [linkedIn](https://www.linkedin.com/in/gema-adame-prudencio/)
 - ⚡ Fun fact: 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/9GI7VdtNcy79PfUPn4/giphy.gif)" />
+<img src="https://media.giphy.com/media/9GI7VdtNcy79PfUPn4/giphy.gif" />
 </div>
 <!---
 GemaAdeAdame/GemaAdeAdame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

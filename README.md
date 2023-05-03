@@ -8,7 +8,7 @@
 👀 I’m interested in front and backend <br>
 🌱 I’m currently learning html, css, javascript, react, node.js...<br>
 📫 How to reach me on: https://www.linkedin.com/in/gema-adame-prudencio/ <br>
-⚡ Fun fact: <br>
+⚡ Fun fact:  I was born in the year that the first Harry Potter book was published and when Nintendo released its last cartridge-based home console, the Nintendo 64, in 1997. More Madrid-born than potato omelette and ham tapas <br>
 </div>
 
 

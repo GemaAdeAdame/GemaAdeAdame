@@ -25,7 +25,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wp" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" width="40" height="40" />
-      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" width="40" height="40" /><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" width="40" height="40" />
+      <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symf" width="40" height="40"/>
+      <img src= "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tail" width="40" height="40" />
+      <br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" />

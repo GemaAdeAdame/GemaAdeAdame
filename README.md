@@ -46,6 +46,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="codepen" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title= "django" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bt" width="40" height="40" />
     </div>
   </div>
   

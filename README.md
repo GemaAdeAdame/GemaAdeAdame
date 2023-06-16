@@ -41,6 +41,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" width="40" height="40" /><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wp" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="codepen" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title= "django" width="40" height="40" />

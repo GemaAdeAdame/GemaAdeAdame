@@ -26,8 +26,13 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" width="40" height="40" /><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40" />
+      <img scr="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node-js" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" width="40" height="40" /> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sql" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" width="40" height="40" /><br>

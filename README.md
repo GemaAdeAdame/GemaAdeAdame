@@ -50,13 +50,15 @@
     </div>
   </div>
   
+ <div style="text-align: center;">
   <h3 align="center">My stats:</h3>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=GemaAdeAdame&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![GemaAdeAdame GitHub stats](https://github-readme-stats.vercel.app/api?username=GemaAdeAdame&show_icons=true&theme=radical)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GemaAdeAdame&layout=compact)](https://github.com/GemaAdeAdame/github-readme-stats)
- 
+</div>
+
 <!---
 GemaAdeAdame/GemaAdeAdame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

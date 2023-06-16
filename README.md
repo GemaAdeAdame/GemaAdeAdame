@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Gema Adame Prudencio</h1>
 <h3 align="center">A passionate fullstack developer from Madrid, Spain</h3>
-
+<img src="https://media.giphy.com/media/9GI7VdtNcy79PfUPn4/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemaadeadame&label=Profile%20views&color=0e75b6&style=flat" alt="gemaadeadame" /> </p>
 
 - 🌱 I’m currently learning **different languages: PHP, Python...**

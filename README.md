@@ -5,13 +5,11 @@
 <img src="https://media.giphy.com/media/9GI7VdtNcy79PfUPn4/giphy.gif" />
 </div>
 <div align="center"
-👋 Hi, I’m @GemaAdeAdame a passionate web fullstack developer from Madrid (Spain). Call it luck, chance or destiny but we have met on this path!<br>
-👀 I’m interested in front and backend <br>
-🌱 I’m currently learning PHP, Python, Symfony, React, Node.js...<br>
+👋 Hi, I’m @GemaAdeAdame! <br>
 👁️ More about me: I have always had a great motivation and enthusiasm for learning and developing myself as a professional, especially in the tech sector. That's why I have participated in volunteering at events like T3ch Fest and have collaborated as a pedagogical assistant in workshops for code and metaverse initiation, as well as other tech experiences. <br>
 🤍 I consider myself a proactive, responsible, agile, and resourceful person. I love to continue learning and growing as a professional, so I am excited to join a dynamic and committed team. Let's stay in touch! <br>
 📫 How to reach me **https://www.linkedin.com/in/gema-adame-prudencio/ 
-⚡ Fun fact:  I was born in the year that the first Harry Potter book was published and when Nintendo released its last cartridge-based home console, the Nintendo 64, in 1997. More Madrid-born than potato omelette and ham tapas <br>
+⚡ Fun fact:  I was born in the year that the first Harry Potter book was published and when Nintendo released its last cartridge-based home console, the Nintendo 64, in 1997.<br>
 </div>
 
 

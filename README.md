@@ -1,11 +1,10 @@
 
 <h1 align="center">Who am I?</h1>
-<h2 align="center">Hi! I'm Gema</h2>
+<h2 align="center">👋 Hi! I'm Gema!</h2>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/9GI7VdtNcy79PfUPn4/giphy.gif" />
 </div>
 <div align="center"
-👋 Hi, I’m @GemaAdeAdame! <br>
 👁️ More about me: I have always had a great motivation and enthusiasm for learning and developing myself as a professional, especially in the tech sector. That's why I have participated in volunteering at events and have collaborated as a pedagogical assistant in workshops for code and metaverse initiation, as well as other tech experiences. <br>
 🤍 I consider myself a proactive, responsible, agile, and resourceful person. I love to continue learning and growing as a professional, so I am excited to join a dynamic and committed team. Let's stay in touch! <br>
 📫 How to reach me **https://www.linkedin.com/in/gema-adame-prudencio/ 
